@@ -5,8 +5,3 @@
 - 📫 How to reach me - E-Mail:- souravgoswami2005@gmail.com
 - 😄 Pronouns: he/him
 - ⚡ Fun fact: Coders are fun.
-
-<!---
-Sourav040505/Sourav040505 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
