@@ -1,7 +1,15 @@
-- 👋 Hi, I’m @Sourav040505
-- 👀 I’m interested in codes, anime, interactions, movies, sports.
-- 🌱 I’m currently learning Java.
-- 💞️ I’m looking to collaborate on any project.
-- 📫 How to reach me - E-Mail:- souravgoswami2005@gmail.com
-- 😄 Pronouns: he/him
-- ⚡ Fun fact: Coders are fun.
+👋 Hi, I’m @Sourav040505
+
+**🚀 About Me**
+- 👀 **Interests:** Coding, Anime, Meaningful Interactions, Movies, and Sports.
+- 🌱 **Learning:** Currently diving deep into **Java**.
+- 💞️ **Collaboration:** Open to collaborating on any interesting projects—let's build something cool!
+- 😄 **Pronouns:** He/Him
+- ⚡ **Fun Fact:** Coders aren't just logic machines; we're actually a lot of fun.
+
+**🔗 Connect with Me**
+- 📧 **Email:** [souravgoswami2005@gmail.com](mailto:souravgoswami2005@gmail.com)
+- 💼 **LinkedIn:** [Sourav Goswami](https://www.linkedin.com/in/souravgoswami2005/)
+
+---
+*“Code is like humor. When you have to explain it, it’s bad.”*
