@@ -2,7 +2,7 @@
 
 **🚀 About Me**
 - 👀 **Interests:** Coding, Anime, Meaningful Interactions, Movies, and Sports.
-- 🌱 **Learning:** Currently diving deep into **Java**.
+- 🌱 **Learning:** Currently diving deep into **C++**.
 - 💞️ **Collaboration:** Open to collaborating on any interesting projects—let's build something cool!
 - 😄 **Pronouns:** He/Him
 - ⚡ **Fun Fact:** Coders aren't just logic machines; we're actually a lot of fun.
