@@ -19,9 +19,9 @@ Hi, I'm Sourav 👋
 
 ## 🧰 Tech Stack
 
-**Languages:** Python · Java · JavaScript · C++
-**Web:** HTML · CSS
-**Tools:** Git · GitHub · Firebase
+<p align="left">
+  <img src="https://skillicons.dev/icons?i=python,java,js,cpp,html,css,git,github,firebase" />
+</p>
 
 ---
 
@@ -30,6 +30,22 @@ Hi, I'm Sourav 👋
 - Data Structures & Algorithms (C++)
 - System design fundamentals
 - Backend development
+
+---
+
+## 📫 Contact
+
+<p align="left">
+  <a href="https://www.linkedin.com/in/souravgoswami2005/" target="_blank">
+    <img src="https://skillicons.dev/icons?i=linkedin" />
+  </a>
+  <a href="mailto:souravgoswami2005@gmail.com">
+    <img src="https://skillicons.dev/icons?i=gmail" />
+  </a>
+  <a href="https://github.com/Sourav040505" target="_blank">
+    <img src="https://skillicons.dev/icons?i=github" />
+  </a>
+</p>
 
 ---
 
