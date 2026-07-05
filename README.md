@@ -4,10 +4,10 @@
 Hi, I'm Sourav 👋
 
 
-🎓 2nd-year CS student at VIT Bhopal (2024–2028)
+🎓 CS student at VIT Bhopal (2024–2028)
 🚀 Co-founder of PRXSRV
-🎯 Currently prepping for FAANG SDE internships — deep diving into DSA & system design
-🛠️ Building side projects like Ribbon & Reel (a WebRTC photobooth app) and Echo Chamber
+🎯 Currently deep diving into DSA & system design
+🛠️ Building side projects like inkflow and Echo Chamber
 📫 Reach me on LinkedIn or check my repos below
 
 
