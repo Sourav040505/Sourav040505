@@ -1,15 +1,40 @@
-👋 Hi, I’m @Sourav040505
+<div align="center">
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=28&pause=1000&color=58A6FF&center=true&vCenter=true&width=600&lines=Hi+%F0%9F%91%8B%2C+I'm+Sourav;CS+Student+%40+VIT+Bhopal;Co-founder+%40+PRXSRV;Aspiring+SDE+%7C+FAANG+Bound" alt="Typing SVG" />
+</div>
+Hi, I'm Sourav 👋
 
-**🚀 About Me**
-- 👀 **Interests:** Coding, Anime, Meaningful Interactions, Movies, and Sports.
-- 🌱 **Learning:** Currently diving deep into **C++**.
-- 💞️ **Collaboration:** Open to collaborating on any interesting projects—let's build something cool!
-- 😄 **Pronouns:** He/Him
-- ⚡ **Fun Fact:** Coders aren't just logic machines; we're actually a lot of fun.
 
-**🔗 Connect with Me**
-- 📧 **Email:** [souravgoswami2005@gmail.com](mailto:souravgoswami2005@gmail.com)
-- 💼 **LinkedIn:** [Sourav Goswami](https://www.linkedin.com/in/souravgoswami2005/)
+🎓 2nd-year CS student at VIT Bhopal (2024–2028)
+🚀 Co-founder of PRXSRV
+🎯 Currently prepping for FAANG SDE internships — deep diving into DSA & system design
+🛠️ Building side projects like Ribbon & Reel (a WebRTC photobooth app) and Echo Chamber
+📫 Reach me on LinkedIn or check my repos below
 
----
-*“Code is like humor. When you have to explain it, it’s bad.”*
+
+
+🧰 Tech Stack
+
+<p align="left">
+  <img src="https://skillicons.dev/icons?i=python,java,js,cpp,html,css,git,github,firebase" />
+</p>
+
+📊 GitHub Stats
+
+<p align="center">
+  <img height="165" src="https://github-readme-stats.vercel.app/api?username=Sourav040505&show_icons=true&theme=tokyonight&hide_border=true" />
+  <img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Sourav040505&layout=compact&theme=tokyonight&hide_border=true" />
+</p>
+<p align="center">
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Sourav040505&theme=tokyonight&hide_border=true" />
+</p>
+
+🐍 Contribution Snake
+
+<p align="center">
+  <img src="https://raw.githubusercontent.com/Sourav040505/Sourav040505/output/github-contribution-grid-snake-dark.svg" />
+</p>
+
+<p align="center">
+  <img src="https://komarev.com/ghpvc/?username=Sourav040505&color=blue" alt="Profile views" />
+</p>
+</div>
